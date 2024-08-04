@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there 👋  
+I'm **Hanif Abdusy Syakur**
+--
+Students majoring in Computer Engineering Technology<br>
+**"A beginner who always wants to learn"**
 <!--
 **hnf71z/hnf71z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
