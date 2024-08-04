@@ -1,8 +1,22 @@
-### Hi there 👋  
-I'm **Hanif Abdusy Syakur**
---
-Students majoring in Computer Engineering Technology<br>
-**"A beginner who always wants to learn"**
+## I'm **[Hanif Abdusy Syakur](https://hnf71z.github.io/portfolioT/)**  
+
+Students majoring in Computer Engineering Technology.<br>
+**"A beginner who always wants to learn"**<br>
+<br>
+I'm currently learning about **web and mobile development**.  
+learn several languages that support such development.
+<br>
+### Github Statistic
+<p align="left">
+<a href="https://github.com/hnf71z">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hnf71z&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hnf71z&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<a href="https://www.linkedin.com/in/hanif-abdusy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.instagram.com/hanif_abdusy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+
 <!--
 **hnf71z/hnf71z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
