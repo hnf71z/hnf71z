@@ -10,8 +10,8 @@ learn several languages that support such development.
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/hnf71z">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hnf71z&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hnf71z&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="178em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hnf71z&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="178em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hnf71z&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
