@@ -15,9 +15,6 @@ learn several languages that support such development.
 </a>
 </p>
 
-<a href="https://www.linkedin.com/in/hanif-abdusy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://www.instagram.com/hanif_abdusy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-
 <!--
 **hnf71z/hnf71z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
