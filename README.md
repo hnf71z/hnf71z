@@ -1,8 +1,8 @@
-## I'm **[Hanif Abdusy Syakur](https://hnf71z.github.io)**  
+# I'm **[Hanif Abdusy Syakur](https://hnf71z.github.io)**  
 
 Students majoring in Computer Engineering Technology.<br>
+--
 
-<br>
 I'm currently learning about **web and mobile development**.  
 learn several languages that support such development.
 <br>
