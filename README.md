@@ -23,9 +23,6 @@ learn several languages that support such development.
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <div><img src="https://visitor-badge.laobi.icu/badge?page_id=hnf71z.hnf71z&"  /></div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hnf71z/hnf71z/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hnf71z/hnf71z/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hnf71z/hnf71z/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/hnf71z/hnf71z/output/snake.svg" alt="Snake animation" />
 
+###
