@@ -19,9 +19,12 @@ learn several languages that support such development.
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,react,dart,flutter,python,figma,github,mysql&theme=light&perline=6)](https://skillicons.dev,tailwind)
 
 ### Reach me on
-<a href="https://www.linkedin.com/in/hanif-abdusy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/hanif_abdusy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/hanif-abdusy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/hanif_abdusy/">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hnf71z.hnf71za&"  />
-  
+
+<img src="https://raw.githubusercontent.com/hnf71z/hnf71z/output/snake.svg" alt="Snake animation" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hnf71z/hnf71z/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hnf71z/hnf71z/output/pacman-contribution-graph.svg">
