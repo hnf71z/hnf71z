@@ -16,27 +16,12 @@ learn several languages that support such development.
 </p>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,dart,flutter,python,figma,react&perline=5&theme=light)](https://skillicons.dev,tailwind)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,react,dart,flutter,python,figma&theme=light)](https://skillicons.dev,tailwind)
 
 ### Reach me on
-<a href="https://www.linkedin.com/in/hanif-abdusy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://www.instagram.com/hanif_abdusy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/hanif-abdusy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/hanif_abdusy/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/hnf71z/hnf71z/output/snake.svg" alt="Snake animation" />
 
-<!--
-**hnf71z/hnf71z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
