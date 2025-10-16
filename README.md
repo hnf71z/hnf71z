@@ -16,7 +16,7 @@ learn several languages that support such development.
 </p>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,react,dart,flutter,python,figma,github,mysql&theme=light&perline=6)](https://skillicons.dev,tailwind)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,react,dart,flutter,python,github,mysql&theme=light&perline=6)](https://skillicons.dev,tailwind)
 
 ### Reach me on
 <a href="https://www.linkedin.com/in/hanif-abdusy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/hanif_abdusy/">
